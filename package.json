@@ -1,0 +1,18 @@
+{
+	"name": "@konfirm/kontract",
+	"version": "0.0.0",
+	"description": "Class extender contracts",
+	"main": "source/main.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"test": "./node_modules/.bin/lab -vcl"
+	},
+	"keywords": [],
+	"author": "Rogier Spieker <rogier+npm@konfirm.eu>",
+	"license": "MIT",
+	"devDependencies": {
+		"@konfirm/labrat": "^2.0.1"
+	}
+}
