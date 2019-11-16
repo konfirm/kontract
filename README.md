@@ -1,6 +1,6 @@
 # Kontract
 
-Register, verify and compose "contrats" (classes) to allow for contract checks with class compositions.
+Register, verify and compose "contracts" (classes) to allow for contract checks with class compositions.
 
 ## Installation
 
