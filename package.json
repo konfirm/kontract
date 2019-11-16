@@ -9,9 +9,16 @@
 	"scripts": {
 		"test": "./node_modules/.bin/lab -vcl"
 	},
-	"keywords": [],
+	"keywords": [
+		"class composition",
+		"contract",
+		"kontract"
+	],
 	"author": "Rogier Spieker <rogier+npm@konfirm.eu>",
 	"license": "MIT",
+	"files": [
+		"source"
+	],
 	"engines": {
 		"node": ">= 8.0.0"
 	},
