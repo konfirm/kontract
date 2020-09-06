@@ -23,6 +23,8 @@
 		"node": ">= 8.0.0"
 	},
 	"devDependencies": {
-		"@konfirm/labrat": "^2.0.2"
+		"@konfirm/labrat": "^2.0.2",
+		"eslint": "^7.8.1",
+		"prettier": "^2.1.1"
 	}
 }
