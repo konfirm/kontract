@@ -21,3 +21,4 @@ jobs:
           branch: master
           tags: true
         api_key:
+          secure: YohrFEmkhGy1ndLkgDSC0wfiBxGHqWqY/D1kfZf0nAMh075JvUXzgC1pHCLupPDkZkGP5/jrxjMo1jeycK3pBERbAc5vZXYNGUOc3rFGWXqLyMN3wsentABR/nOYkvlXMKS+DJ+cEesaZ8JAW5+yQj2BswGT0rHD9uMhsI62BchwtdHpWCCQN6yglGwehgjRr9BVpKbn5SiaDAbHHpE2J7I+j9ZqXuDwSetA/ILI5TpgMXjK9olL3Z95hC+xalf59lolFd96tMRGso1J2jLI49DYJBuJzro2lnyDgs0R7/NkNRalVTykXBViKUHyESnHLdolLNmrvOrSjerHQUcjSgSRasPBcUnOIXqb2fEe1ZW7RZa97GdQPgtat/jiwMgO5kxcoC/nlAEvU1UEb6UXOE4M5CkoX8nZB0pRizZfIh9Nxa0F6llRGkO6MznWC/3Pya9xDadyKFu6C8z5XJLeEGkW5+kOpSLwvfisOoX9SeAntXr/2y3OgzXmQvFWgz3AmaJAy7R9Qr7RYGPRmOLGGmbe/O7a9hBgue8+/2znn6Iq1ZgV4mWc2FtuLI2aJi78aGuGRjhQSf4+6v0m9skKPownKXc3UU/wdqNTInfQ5A/bHQXILnWKKVOZ4JIynq96Fj2phIn+S2HFCypWrSFZDQBc7pVpoUqi1Zk++GOViV0=
